@@ -2,7 +2,7 @@
 
 
 # 設定変数
-LOG=device-location/log
+LOG=go-walking/log
 CURRENT_TIME=$(date "+%Y%m%d-%H%M%S")
 
 mkdir -p $HOME/$LOG
